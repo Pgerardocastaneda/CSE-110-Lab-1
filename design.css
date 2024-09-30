@@ -1,0 +1,24 @@
+div {
+    width: 100%;
+    display: inline-block;
+}
+
+#sectionOne {
+    width: 100%;
+    display: inline-block;
+    background-color: rgb(245, 240, 230);
+}    
+
+#sectionTwo{
+    width: 100%;
+    display: inline-block;
+    background-image: url(https://www.ucsd.edu/_resources/img/bg-orbs-1.jpg);
+    color: white;
+    
+}
+
+#navbar{
+    position: sticky;
+    top:0%;
+    overflow: hidden;
+}
